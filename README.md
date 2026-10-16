@@ -2,7 +2,7 @@
 
 A simple Docker learning project that demonstrates how to use `ARG` variables and execute basic shell commands during the Docker image build process using Alpine Linux.
 
-**Project Page URL:** (https://github.com/gdsumit23-bot/docker-learn-1)
+**Project Page URL:**(https://roadmap.sh/projects/basic-dockerfile)
 
 ## Prerequisites
 
